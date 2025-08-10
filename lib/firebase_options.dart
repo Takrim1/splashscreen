@@ -43,7 +43,7 @@ class DefaultFirebaseOptions {
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyCDtUHfziuj8XlbW2P91B4ljB-3Y4gKjzU',
     appId: '1:124781148977:web:4a1e0f0b88f623ded58e10',
-    messagingSenderId: '124781148977',
+    messagingSenderId: 'id',
     projectId: 'splashscreen-35417',
     authDomain: 'splashscreen-35417.firebaseapp.com',
     storageBucket: 'splashscreen-35417.firebasestorage.app',
@@ -53,33 +53,33 @@ class DefaultFirebaseOptions {
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDC4dEBh6zgO0BI1kLe8rfKWWpJZ3Ac7wU',
     appId: '1:124781148977:android:7fada2ecf6a7457fd58e10',
-    messagingSenderId: '124781148977',
+    messagingSenderId: 'id',
     projectId: 'splashscreen-35417',
     storageBucket: 'splashscreen-35417.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAhJ2T_XQcX8SMLXojSbfhocxwJ8NqYVsg',
-    appId: '1:124781148977:ios:f399e3afbffc7785d58e10',
-    messagingSenderId: '124781148977',
+    apiKey: 'YVsgAIzaSyAhJ2T_XQcX8SMLXojSbfhocxwJ8Nq_YOUR_API',
+    appId: '58e101:124781148977:ios:f399e3afbffc7785d58e10_YOUR_ID',
+    messagingSenderId: 'id',
     projectId: 'splashscreen-35417',
     storageBucket: 'splashscreen-35417.firebasestorage.app',
     iosBundleId: 'com.example.splashscreen',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAhJ2T_XQcX8SMLXojSbfhocxwJ8NqYVsg',
-    appId: '1:124781148977:ios:f399e3afbffc7785d58e10',
-    messagingSenderId: '124781148977',
+    apiKey: 'your api',
+    appId: 'your id',
+    messagingSenderId: 'id',
     projectId: 'splashscreen-35417',
     storageBucket: 'splashscreen-35417.firebasestorage.app',
     iosBundleId: 'com.example.splashscreen',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCDtUHfziuj8XlbW2P91B4ljB-3Y4gKjzU',
-    appId: '1:124781148977:web:3f8acd3ba948f6e5d58e10',
-    messagingSenderId: '124781148977',
+    apiKey: 'your api'
+    appId: 'id',
+    messagingSenderId: 'id',
     projectId: 'splashscreen-35417',
     authDomain: 'splashscreen-35417.firebaseapp.com',
     storageBucket: 'splashscreen-35417.firebasestorage.app',
